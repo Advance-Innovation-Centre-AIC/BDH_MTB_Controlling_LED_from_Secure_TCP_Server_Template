@@ -101,4 +101,4 @@ echo ""
 echo "${GREEN}Below is the C header file text format....${NC}"
 read -p "${YELLOW}Press any key to continue ...${NC}"
 
-python3 ../format_cert_key.py $ROOT_CA_NAME.key $ROOT_CA_NAME.crt $MY_CLIENT_NAME.key $MY_CLIENT_NAME.crt
+python3 format_cert_key.py $ROOT_CA_NAME.key $ROOT_CA_NAME.crt $MY_CLIENT_NAME.key $MY_CLIENT_NAME.crt
