@@ -1,3 +1,6 @@
+## Created by Assoc. Prof. Wiroon Sriborrirux
+# This shell script will generate the certificate, private key and public key for root, server and client
+
 #!/bin/bash
 
 set -e
