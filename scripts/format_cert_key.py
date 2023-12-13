@@ -1,3 +1,5 @@
+# Created by Assoc. Prof. Wiroon Sriborrirux
+#
 # Python script to convert certificate/key file to string format that can be used in C source files.
 #
 # Usage:
